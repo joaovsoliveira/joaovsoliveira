@@ -2,7 +2,7 @@
 
 ## About Me
 
-Hello there! My name is João Víctor. I'm a Junior Web Developer at [Agroboard](https://agroboard.com.br/) and a Computer Engineering student at the State University of Campinas (UNICAMP), Brazil. Currently in my fourth year, I am deeply fascinated by the world of Web3 and am actively expanding my skills in this innovative domain.
+Hello there! My name is João Víctor. I'm a Web Developer at [Agroboard](https://agroboard.com.br/) and a Computer Engineering student at the State University of Campinas (UNICAMP), Brazil. Currently in my fourth year, I am deeply fascinated by the world of Web3 and am actively expanding my skills in this innovative domain.
 
 ## 🌎 Location
 - São Paulo, Brazil
