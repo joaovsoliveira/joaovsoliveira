@@ -19,7 +19,7 @@ Hello there! My name is João Víctor. I'm a Software Developer at [Agroboard](h
 - **Junior Software Developer**  
   [Agroboard](https://agroboard.com.br/)  
   2023 - 2024
-- **Intern at Software Development**  
+- **Software Development Intern**  
   [Agroboard](https://agroboard.com.br/)  
   2022 - 2023
 ## 🎓 Academic Projects
